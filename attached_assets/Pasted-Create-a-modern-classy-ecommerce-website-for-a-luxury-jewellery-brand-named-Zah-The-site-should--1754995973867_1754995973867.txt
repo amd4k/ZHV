@@ -1,0 +1,29 @@
+Create a modern, classy ecommerce website for a luxury jewellery brand named “Zah”. The site should take inspiration from brands like Zara and Chopard for its aesthetic—use elegant fonts, lots of white space, a refined color palette, and strong product photography throughout. Homepage should feel high-end and minimalistic, with a bold logo.
+
+Features for the online store:
+- Product catalog with clear sections for necklaces, jhumkas, earrings, rings, bangles, and more.
+- Each jewellery item should display price, product images, description, and “Buy” options. Customers must be able to buy via Amazon, Flipkart, Myntra, Meesho, or directly from the Zah website. For the external platforms, include “Buy Now” buttons that link to the respective product pages.
+- For items listed on Amazon, automatically fetch and update the remaining stock quantity by scraping the respective Amazon product page, and visibly show this on the product card. Only show these quantities if available.
+- When an item’s available quantity is set to zero, move it to the bottom of the relevant product section, grouped in a collapsible “Out of Stock” area.
+- When the user clicks on a jewellery item for details, show a popup with a frosted glass background effect overlaying the rest of the website, and provide more item information along with multiple images of this product in this modal.
+
+Footer:
+- Include links to all Zah social media pages (Instagram, Facebook, Twitter, Pinterest, WhatsApp, YouTube, and any others specified).
+
+SEO & Performance:
+- The website must be fully optimized for Google search with the best modern practices, including schema markup for products and brand, high-quality alt text for all images, descriptive meta titles and descriptions for each page, fast page load times, mobile responsiveness, clean URL structures, proper use of H1/H2/H3 tags, internal linking, and XML sitemap.
+- Follow Google’s developer guidelines for Javascript, accessibility, and mobile usability.
+- Use canonical links to avoid duplicate content issues.
+- Include Open Graph and Twitter Card tags for social sharing.
+- Provide editable product data (in a CMS-like dashboard or an admin panel) so I can easily add new products, update availability, and edit product descriptions or images.
+- Make the site modular and easy to update, with clear instructions for adding or removing products.
+
+Deployment:
+- Prepare the site for instant deployment. Connect my custom domain.
+- Ensure shopping cart and checkout system is secure and ready for live orders, with simple mobile-friendly flow.
+
+Overall Style:
+- Integrate elegant design elements (frosted glass, subtle drop shadows, smooth transitions), premium fonts, and high-quality imagery. Make sure site navigation is simple and intuitive.
+
+Extra:
+- Add sample products in all categories to demonstrate layout and functionality.
